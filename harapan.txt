@@ -1,0 +1,5 @@
+Britkut ini adalah list Harapan Zidane Novanda Putra:
+  - Menguasai Bahasa Pemrograman Javasacript
+  - Menguasai Bahasa Pemrograman PHP
+  - Menguasai framework React
+  
