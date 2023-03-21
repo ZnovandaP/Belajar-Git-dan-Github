@@ -1,5 +1,9 @@
-Britkut ini adalah list Harapan Zidane Novanda Putra:
-  - Menguasai Bahasa Pemrograman Javasacript
-  - Menguasai Bahasa Pemrograman PHP
-  - Menguasai framework React
+Berikut ini adalah list Harapan Zidane Novanda Putra:
+  - Mendapatkan Pekerjaan pertama sebagai Front end Enginner.
+  - dapat membeli Rumah untuk Mamah dan masa depan saya.
+  - Menguasai Bahasa Pemrograman Javasacript.
+  - Menguasai Bahasa Pemrograman TypeScrript.
+  - Menguasai Bahasa Pemrograman PHP.
+  - Menguasai framework Vue.
+  - Menguasai framework React.
   
